@@ -1,0 +1,9 @@
+# 运行期数据与私密配置，一律不入库
+node_modules/
+data/bottles.json
+data/bottles.backup.json
+data/admin-token.txt
+*.log
+
+# 已下线页面的遗留图片（获奖证书/论文配图等个人材料，页面已无引用）
+assets/img/
