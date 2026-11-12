@@ -65,5 +65,6 @@ curl "http://localhost:3000/api/pending?token=<你的口令>"
 ## 致谢与许可
 
 - 3D 模型来自 [KhronosGroup/glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets)，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可
+- 追毛线球的小猫基于 **Tuxedo Cat Animated 2.0**（作者 [DreamNoms](https://sketchfab.com/DreamNoms)，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，详见 `mindvr/models/TuxedoCat.license.txt`）
 - MindVR 演示基于 [XIUGOU-AMEN/MindVR](https://github.com/XIUGOU-AMEN/MindVR) 场景改造（本仓库仅含其前端构建产物；分析后端请参照原仓库自行部署）
 - 本项目代码采用 [MIT License](./LICENSE)
