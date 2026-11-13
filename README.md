@@ -1,6 +1,6 @@
-# 陆先恒 · 情感计算作品集
+# Affective Computing · 情感计算交互空间
 
-个人学术作品集网站：**首页粒子情绪核心 + MindVR 沉浸式情感评估演示 + 凌空手势交互小游戏 + 漂流瓶信箱**。
+一个情感计算主题的交互演示网站：**粒子情绪核心 + MindVR 沉浸式情感评估演示 + 凌空手势交互小游戏 + 漂流瓶信箱**。
 
 - 线上演示：<https://xianheng-portfolio.app.workbuddy.host/?sharecode=6UJYJEE2NZ>
 - 技术栈：原生 HTML/CSS/JS（首页）、React + three.js（MindVR 演示，构建产物内嵌）、零依赖 Node.js 服务

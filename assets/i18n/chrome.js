@@ -9,7 +9,7 @@
   /* 简体中文（默认语言）：保留原始的中英结合排版，不整体中文化 */
   R("zh-CN", { chrome: {
     nav: { about: "关于", mindvr: "MindVR", skills: "技能", lab: "画布", gesture: "凌空", contact: "联系我" },
-    footer: { place: "中国 北京 (UTC+8)", home: "首页", awards: "获奖", email: "Email", github: "GitHub", arxiv: "arXiv" },
+    footer: { place: "Open Source · MIT", home: "首页", awards: "获奖", email: "Email", github: "GitHub", arxiv: "arXiv" },
     a11y: { backtop: "回到顶部", langOpen: "切换语言", langMenu: "选择语言" },
     cursor: { view: "查看", draw: "拖动", copy: "复制" },
     doc: {
@@ -22,7 +22,7 @@
 
   R("zh-TW", { chrome: {
     nav: { about: "關於", mindvr: "MindVR", skills: "技能", lab: "畫布", gesture: "凌空", contact: "聯絡我" },
-    footer: { place: "中國 北京 (UTC+8)", home: "首頁", awards: "獲獎", email: "Email", github: "GitHub", arxiv: "arXiv" },
+    footer: { place: "Open Source · MIT", home: "首頁", awards: "獲獎", email: "Email", github: "GitHub", arxiv: "arXiv" },
     a11y: { backtop: "回到頂端", langOpen: "切換語言", langMenu: "選擇語言" },
     cursor: { view: "檢視", draw: "拖曳", copy: "複製" },
     doc: {
@@ -35,7 +35,7 @@
 
   R("en", { chrome: {
     nav: { about: "About", mindvr: "MindVR", skills: "Skills", lab: "Canvas", gesture: "Spatial", contact: "Contact" },
-    footer: { place: "Beijing, China (UTC+8)", home: "Home", awards: "Awards", email: "Email", github: "GitHub", arxiv: "arXiv" },
+    footer: { place: "Open Source · MIT", home: "Home", awards: "Awards", email: "Email", github: "GitHub", arxiv: "arXiv" },
     a11y: { backtop: "Back to top", langOpen: "Switch language", langMenu: "Choose language" },
     cursor: { view: "View", draw: "Drag", copy: "Copy" },
     doc: {
@@ -48,7 +48,7 @@
 
   R("ja", { chrome: {
     nav: { about: "私について", mindvr: "MindVR", skills: "スキル", lab: "キャンバス", gesture: "空間", contact: "お問い合わせ" },
-    footer: { place: "中国・北京 (UTC+8)", home: "ホーム", awards: "受賞", email: "Email", github: "GitHub", arxiv: "arXiv" },
+    footer: { place: "Open Source · MIT", home: "ホーム", awards: "受賞", email: "Email", github: "GitHub", arxiv: "arXiv" },
     a11y: { backtop: "トップへ戻る", langOpen: "言語を切り替え", langMenu: "言語を選択" },
     cursor: { view: "見る", draw: "ドラッグ", copy: "コピー" },
     doc: {
@@ -61,7 +61,7 @@
 
   R("fr", { chrome: {
     nav: { about: "À propos", mindvr: "MindVR", skills: "Compétences", lab: "Canevas", gesture: "Spatial", contact: "Contact" },
-    footer: { place: "Pékin, Chine (UTC+8)", home: "Accueil", awards: "Prix", email: "Email", github: "GitHub", arxiv: "arXiv" },
+    footer: { place: "Open Source · MIT", home: "Accueil", awards: "Prix", email: "Email", github: "GitHub", arxiv: "arXiv" },
     a11y: { backtop: "Haut de page", langOpen: "Changer de langue", langMenu: "Choisir la langue" },
     cursor: { view: "Voir", draw: "Dessiner", copy: "Copier" },
     doc: {
@@ -74,7 +74,7 @@
 
   R("es", { chrome: {
     nav: { about: "Sobre mí", mindvr: "MindVR", skills: "Habilidades", lab: "Lienzo", gesture: "Espacial", contact: "Contacto" },
-    footer: { place: "Pekín, China (UTC+8)", home: "Inicio", awards: "Premios", email: "Email", github: "GitHub", arxiv: "arXiv" },
+    footer: { place: "Open Source · MIT", home: "Inicio", awards: "Premios", email: "Email", github: "GitHub", arxiv: "arXiv" },
     a11y: { backtop: "Volver arriba", langOpen: "Cambiar idioma", langMenu: "Elegir idioma" },
     cursor: { view: "Ver", draw: "Dibujar", copy: "Copiar" },
     doc: {
@@ -87,7 +87,7 @@
 
   R("de", { chrome: {
     nav: { about: "Über mich", mindvr: "MindVR", skills: "Kenntnisse", lab: "Zeichenfläche", gesture: "Räumlich", contact: "Kontakt" },
-    footer: { place: "Peking, China (UTC+8)", home: "Startseite", awards: "Auszeichnungen", email: "Email", github: "GitHub", arxiv: "arXiv" },
+    footer: { place: "Open Source · MIT", home: "Startseite", awards: "Auszeichnungen", email: "Email", github: "GitHub", arxiv: "arXiv" },
     a11y: { backtop: "Nach oben", langOpen: "Sprache wechseln", langMenu: "Sprache wählen" },
     cursor: { view: "Ansehen", draw: "Zeichnen", copy: "Kopieren" },
     doc: {
