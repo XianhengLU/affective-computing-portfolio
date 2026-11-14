@@ -50,6 +50,7 @@ curl "http://localhost:3000/api/pending?token=<你的口令>"
 │   ├── index.html
 │   ├── assets/
 │   └── models/         # Khronos glTF Sample Assets（CC BY 4.0）
+├── mindvr-src/         # MindVR 演示的前端源码（基于上游 MIT 项目改造，改动说明见其 README）
 ├── server.js           # 零依赖 Node 服务：静态托管 + 漂流瓶 API + MindVR 反代
 ├── package.json
 └── data/               # 运行期数据（gitignore，不入库）
@@ -66,5 +67,5 @@ curl "http://localhost:3000/api/pending?token=<你的口令>"
 
 - 3D 模型来自 [KhronosGroup/glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets)，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可
 - 追毛线球的小猫基于 **Tuxedo Cat Animated 2.0**（作者 [DreamNoms](https://sketchfab.com/DreamNoms)，[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，详见 `mindvr/models/TuxedoCat.license.txt`）
-- MindVR 演示基于 [XIUGOU-AMEN/MindVR](https://github.com/XIUGOU-AMEN/MindVR) 场景改造（本仓库仅含其前端构建产物；分析后端请参照原仓库自行部署）
+- MindVR 演示基于 [XIUGOU-AMEN/MindVR](https://github.com/XIUGOU-AMEN/MindVR)（MIT）场景改造：本仓库含改造后的前端源码（`mindvr-src/`）与其构建产物（`mindvr/`）；分析后端请参照原仓库自行部署
 - 本项目代码采用 [MIT License](./LICENSE)
